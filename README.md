@@ -4,3 +4,5 @@ The mission at stake is creating a personalized movie recommendation system that
 
 Objective:
 This project aims to develop a personalized movie recommendation system that makes use of a variety of filtering and prediction approaches, by giving precise, customized movie recommendations based on unique tastes and interactions. This will increase user satisfaction and retention.
+
+DATA SET LINK: https://grouplens.org/datasets/movielens/25m/
